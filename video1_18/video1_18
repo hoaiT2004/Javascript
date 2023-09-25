@@ -1,0 +1,43 @@
+
+let x = 5
+switch(x){
+case 1:console.log(1)
+case 2:console.log(2);
+case 3:console.log(3);
+case 4:console.log(4);
+case 5:console.log(5);
+case 5:console.log(5);
+case 5:console.log(5);
+}
+// let y = Number(x)
+// let y2 = +x;
+// let a = {
+// "name" : "Hòa","address"  : "LT"  //convention : quy ước
+// , a : function() {
+//     console.log("hello")
+//     return ''
+// }
+// }
+// obj:"{name= 'hoa',address='1'}"
+// let language = "JavaScript";
+
+// let text = "";
+// for (let x of language) {
+//   text += x + "\n";
+// }
+// let size = 0;
+// while(true){
+//     text += language.charAt(size);
+//     if(size === language.length-1) break;
+//     size++;
+// }
+// console.log(text)
+
+// let z = 6
+// let tex = `hello
+
+// \<br>cac`;
+// let tex2 = "hello/kkkk";
+//console.log(obj.name)
+// let text = " 12 3 "
+// document.getElementById("demo").innerHTML=  (x==y)+ "<br>" +text.trim().length;
